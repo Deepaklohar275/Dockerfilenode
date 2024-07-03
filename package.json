@@ -1,0 +1,11 @@
+{
+  "name": "dockerfileNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Deepak lohar <Deepaklohar275@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.19.2",
+    "moment": "2.30.1"
+  }
+}
